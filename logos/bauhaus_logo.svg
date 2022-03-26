@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="178.51675mm"
+   height="178.51675mm"
+   viewBox="0 0 178.51675 178.51675"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (1:1.1+202109281949+c3084ef5ed)"
+   sodipodi:docname="bauhaus_logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="0.61201599"
+     inkscape:cx="258.98016"
+     inkscape:cy="479.56263"
+     inkscape:window-width="1600"
+     inkscape:window-height="818"
+     inkscape:window-x="0"
+     inkscape:window-y="28"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(109.95345,-112.3844)">
+    <g
+       id="g3586">
+      <circle
+         style="opacity:1;fill:#fffdfd;fill-opacity:1;fill-rule:evenodd;stroke:#403fe3;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path846"
+         cx="-20.695072"
+         cy="201.64278"
+         r="87.258377" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ff0000;stroke-width:4.54656;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect3257"
+         width="90.944794"
+         height="90.944794"
+         x="-43.851891"
+         y="156.17038" />
+      <path
+         style="fill:none;stroke:#ffff00;stroke-width:4.9225;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m -101.77105,201.64278 86.355877,-78.47476 v 156.94952 z"
+         id="path1489"
+         sodipodi:nodetypes="cccc" />
+    </g>
+  </g>
+</svg>
